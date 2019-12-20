@@ -1,3 +1,1 @@
-
-open()
-pass
+import cv2
