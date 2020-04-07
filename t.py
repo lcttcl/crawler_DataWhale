@@ -1,3 +1,0 @@
-mport numbers
-
-print('aaaaaa')
